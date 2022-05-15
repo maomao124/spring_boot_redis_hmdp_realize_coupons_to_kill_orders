@@ -1,0 +1,15 @@
+2022-05-15 21:36:39.477  INFO 18964 --- [main] mdpRealizeCouponsToKillOrdersApplication : Starting SpringBootRedisHmdpRealizeCouponsToKillOrdersApplication v0.0.1-SNAPSHOT using Java 16.0.2 on mao with PID 18964 (H:\程序\大三下期\spring_boot_redis_hmdp实现优惠券秒杀下单\target\spring_boot_redis_hmdp-0.0.1-SNAPSHOT.jar started by mao in H:\程序\大三下期\spring_boot_redis_hmdp实现优惠券秒杀下单\target)
+2022-05-15 21:36:39.480 DEBUG 18964 --- [main] mdpRealizeCouponsToKillOrdersApplication : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-15 21:36:39.481  INFO 18964 --- [main] mdpRealizeCouponsToKillOrdersApplication : The following 1 profile is active: "dev"
+2022-05-15 21:36:40.324  INFO 18964 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-05-15 21:36:40.330  INFO 18964 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-05-15 21:36:40.376  INFO 18964 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2022-05-15 21:36:41.202  INFO 18964 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-05-15 21:36:41.214  INFO 18964 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-15 21:36:41.215  INFO 18964 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-15 21:36:41.303  INFO 18964 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-15 21:36:41.303  INFO 18964 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1757 ms
+2022-05-15 21:36:41.702  INFO 18964 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-15 21:36:41.940  INFO 18964 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-15 21:36:43.389  INFO 18964 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-15 21:36:43.405  INFO 18964 --- [main] mdpRealizeCouponsToKillOrdersApplication : Started SpringBootRedisHmdpRealizeCouponsToKillOrdersApplication in 4.581 seconds (JVM running for 5.06)
