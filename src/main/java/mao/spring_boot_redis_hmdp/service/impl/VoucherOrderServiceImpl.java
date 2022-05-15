@@ -12,6 +12,7 @@ import mao.spring_boot_redis_hmdp.service.IVoucherOrderService;
 import mao.spring_boot_redis_hmdp.utils.RedisIDGenerator;
 import mao.spring_boot_redis_hmdp.utils.UserHolder;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import javax.annotation.Resource;
 import java.time.LocalDateTime;
@@ -27,6 +28,7 @@ public class VoucherOrderServiceImpl extends ServiceImpl<VoucherOrderMapper, Vou
     private RedisIDGenerator redisIDGenerator;
 
     @Override
+    @Transactional
     public Result seckillVoucher(Long voucherId)
     {
         //查询优惠券
@@ -68,10 +70,13 @@ public class VoucherOrderServiceImpl extends ServiceImpl<VoucherOrderMapper, Vou
         VoucherOrder voucherOrder = new VoucherOrder();
         //生成id
         Long orderID = redisIDGenerator.nextID("order");
-        voucherOrder.setVoucherId(orderID);
+        voucherOrder.setVoucherId(voucherId);
+        voucherOrder.setId(orderID);
         //设置用户
-        Long userID = UserHolder.getUser().getId();
-        voucherOrder.setUserId(userID);
+        //Long userID = UserHolder.getUser().getId();
+        //voucherOrder.setUserId(userID);
+        voucherOrder.setUserId(5L);
+        //todo:记得更改回来
         //保存订单
         this.save(voucherOrder);
         //返回
