@@ -1,0 +1,180 @@
+2022-05-15 21:33:07.173 DEBUG 15100 --- [http-nio-8081-exec-46] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.173 DEBUG 15100 --- [http-nio-8081-exec-53] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764503(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.173 DEBUG 15100 --- [http-nio-8081-exec-49] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.174 DEBUG 15100 --- [http-nio-8081-exec-80] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.174 DEBUG 15100 --- [http-nio-8081-exec-52] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.174 DEBUG 15100 --- [http-nio-8081-exec-48] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.174 DEBUG 15100 --- [http-nio-8081-exec-80] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764504(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.175 DEBUG 15100 --- [http-nio-8081-exec-77] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.175 DEBUG 15100 --- [http-nio-8081-exec-77] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764505(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.176 DEBUG 15100 --- [http-nio-8081-exec-59] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.176 DEBUG 15100 --- [http-nio-8081-exec-60] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.177 DEBUG 15100 --- [http-nio-8081-exec-56] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.177 DEBUG 15100 --- [http-nio-8081-exec-64] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.177 DEBUG 15100 --- [http-nio-8081-exec-60] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764507(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.177 DEBUG 15100 --- [http-nio-8081-exec-59] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764506(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.177 DEBUG 15100 --- [http-nio-8081-exec-76] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.177 DEBUG 15100 --- [http-nio-8081-exec-47] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.177 DEBUG 15100 --- [http-nio-8081-exec-64] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764508(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.177 DEBUG 15100 --- [http-nio-8081-exec-45] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.178 DEBUG 15100 --- [http-nio-8081-exec-45] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764509(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.178 DEBUG 15100 --- [http-nio-8081-exec-35] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.178 DEBUG 15100 --- [http-nio-8081-exec-53] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.178 DEBUG 15100 --- [http-nio-8081-exec-61] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.178 DEBUG 15100 --- [http-nio-8081-exec-35] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764510(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.179 DEBUG 15100 --- [http-nio-8081-exec-61] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764511(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.180 DEBUG 15100 --- [http-nio-8081-exec-80] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.180 DEBUG 15100 --- [http-nio-8081-exec-77] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.181 DEBUG 15100 --- [http-nio-8081-exec-62] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.181 DEBUG 15100 --- [http-nio-8081-exec-65] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.181 DEBUG 15100 --- [http-nio-8081-exec-62] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764513(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.181 DEBUG 15100 --- [http-nio-8081-exec-65] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764512(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.182 DEBUG 15100 --- [http-nio-8081-exec-64] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.182 DEBUG 15100 --- [http-nio-8081-exec-60] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.182 DEBUG 15100 --- [http-nio-8081-exec-59] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.183 DEBUG 15100 --- [http-nio-8081-exec-68] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.183 DEBUG 15100 --- [http-nio-8081-exec-69] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.183 DEBUG 15100 --- [http-nio-8081-exec-68] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764515(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.183 DEBUG 15100 --- [http-nio-8081-exec-67] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.183 DEBUG 15100 --- [http-nio-8081-exec-69] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764516(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.183 DEBUG 15100 --- [http-nio-8081-exec-67] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764514(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.183 DEBUG 15100 --- [http-nio-8081-exec-45] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.183 DEBUG 15100 --- [http-nio-8081-exec-35] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.184 DEBUG 15100 --- [http-nio-8081-exec-61] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.184 DEBUG 15100 --- [http-nio-8081-exec-66] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.184 DEBUG 15100 --- [http-nio-8081-exec-50] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.185 DEBUG 15100 --- [http-nio-8081-exec-66] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764517(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.185 DEBUG 15100 --- [http-nio-8081-exec-70] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.185 DEBUG 15100 --- [http-nio-8081-exec-50] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764518(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.185 DEBUG 15100 --- [http-nio-8081-exec-70] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764519(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.186 DEBUG 15100 --- [http-nio-8081-exec-65] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.186 DEBUG 15100 --- [http-nio-8081-exec-72] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.186 DEBUG 15100 --- [http-nio-8081-exec-72] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764520(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.187 DEBUG 15100 --- [http-nio-8081-exec-62] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.187 DEBUG 15100 --- [http-nio-8081-exec-96] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.188 DEBUG 15100 --- [http-nio-8081-exec-96] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764521(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.188 DEBUG 15100 --- [http-nio-8081-exec-69] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.188 DEBUG 15100 --- [http-nio-8081-exec-67] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.189 DEBUG 15100 --- [http-nio-8081-exec-71] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.189 DEBUG 15100 --- [http-nio-8081-exec-100] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.189 DEBUG 15100 --- [http-nio-8081-exec-71] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764522(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.189 DEBUG 15100 --- [http-nio-8081-exec-100] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764523(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.190 DEBUG 15100 --- [http-nio-8081-exec-66] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.190 DEBUG 15100 --- [http-nio-8081-exec-70] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.191 DEBUG 15100 --- [http-nio-8081-exec-54] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.191 DEBUG 15100 --- [http-nio-8081-exec-81] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.191 DEBUG 15100 --- [http-nio-8081-exec-50] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.191 DEBUG 15100 --- [http-nio-8081-exec-81] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764525(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.191 DEBUG 15100 --- [http-nio-8081-exec-84] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.191 DEBUG 15100 --- [http-nio-8081-exec-84] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764526(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.191 DEBUG 15100 --- [http-nio-8081-exec-54] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764524(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.192 DEBUG 15100 --- [http-nio-8081-exec-72] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.192 DEBUG 15100 --- [http-nio-8081-exec-96] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.193 DEBUG 15100 --- [http-nio-8081-exec-68] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.193 DEBUG 15100 --- [http-nio-8081-exec-85] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.193 DEBUG 15100 --- [http-nio-8081-exec-74] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.193 DEBUG 15100 --- [http-nio-8081-exec-85] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764527(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.193 DEBUG 15100 --- [http-nio-8081-exec-74] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764528(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.194 DEBUG 15100 --- [http-nio-8081-exec-51] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.194 DEBUG 15100 --- [http-nio-8081-exec-51] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764529(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.195 DEBUG 15100 --- [http-nio-8081-exec-71] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.195 DEBUG 15100 --- [http-nio-8081-exec-100] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.195 DEBUG 15100 --- [http-nio-8081-exec-79] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.195 DEBUG 15100 --- [http-nio-8081-exec-63] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.195 DEBUG 15100 --- [http-nio-8081-exec-79] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764530(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.195 DEBUG 15100 --- [http-nio-8081-exec-63] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764531(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.196 DEBUG 15100 --- [http-nio-8081-exec-81] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.196 DEBUG 15100 --- [http-nio-8081-exec-84] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.197 DEBUG 15100 --- [http-nio-8081-exec-83] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.197 DEBUG 15100 --- [http-nio-8081-exec-75] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.197 DEBUG 15100 --- [http-nio-8081-exec-83] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764532(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.197 DEBUG 15100 --- [http-nio-8081-exec-75] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764533(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.198 DEBUG 15100 --- [http-nio-8081-exec-54] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.199 DEBUG 15100 --- [http-nio-8081-exec-85] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.199 DEBUG 15100 --- [http-nio-8081-exec-16] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.199 DEBUG 15100 --- [http-nio-8081-exec-88] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.199 DEBUG 15100 --- [http-nio-8081-exec-16] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764534(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.199 DEBUG 15100 --- [http-nio-8081-exec-88] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764535(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.201 DEBUG 15100 --- [http-nio-8081-exec-63] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.201 DEBUG 15100 --- [http-nio-8081-exec-51] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.201 DEBUG 15100 --- [http-nio-8081-exec-79] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.201 DEBUG 15100 --- [http-nio-8081-exec-74] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.202 DEBUG 15100 --- [http-nio-8081-exec-104] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.202 DEBUG 15100 --- [http-nio-8081-exec-78] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.202 DEBUG 15100 --- [http-nio-8081-exec-92] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.202 DEBUG 15100 --- [http-nio-8081-exec-104] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764536(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.202 DEBUG 15100 --- [http-nio-8081-exec-92] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764538(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.202 DEBUG 15100 --- [http-nio-8081-exec-78] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764537(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.202 DEBUG 15100 --- [http-nio-8081-exec-89] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.202 DEBUG 15100 --- [http-nio-8081-exec-75] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.202 DEBUG 15100 --- [http-nio-8081-exec-89] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764539(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.203 DEBUG 15100 --- [http-nio-8081-exec-73] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.203 DEBUG 15100 --- [http-nio-8081-exec-73] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764540(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.205 DEBUG 15100 --- [http-nio-8081-exec-88] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.205 DEBUG 15100 --- [http-nio-8081-exec-83] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.205 DEBUG 15100 --- [http-nio-8081-exec-16] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.205 DEBUG 15100 --- [http-nio-8081-exec-90] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.205 DEBUG 15100 --- [http-nio-8081-exec-94] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.205 DEBUG 15100 --- [http-nio-8081-exec-90] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764542(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.205 DEBUG 15100 --- [http-nio-8081-exec-94] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764543(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.206 DEBUG 15100 --- [http-nio-8081-exec-92] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.206 DEBUG 15100 --- [http-nio-8081-exec-89] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.205 DEBUG 15100 --- [http-nio-8081-exec-106] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.207 DEBUG 15100 --- [http-nio-8081-exec-106] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764541(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.207 DEBUG 15100 --- [http-nio-8081-exec-87] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.208 DEBUG 15100 --- [http-nio-8081-exec-87] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764544(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.208 DEBUG 15100 --- [http-nio-8081-exec-78] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.208 DEBUG 15100 --- [http-nio-8081-exec-95] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.208 DEBUG 15100 --- [http-nio-8081-exec-104] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.208 DEBUG 15100 --- [http-nio-8081-exec-95] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764545(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.209 DEBUG 15100 --- [http-nio-8081-exec-73] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.209 DEBUG 15100 --- [http-nio-8081-exec-98] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.209 DEBUG 15100 --- [http-nio-8081-exec-108] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.209 DEBUG 15100 --- [http-nio-8081-exec-98] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764546(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.209 DEBUG 15100 --- [http-nio-8081-exec-108] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764547(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.210 DEBUG 15100 --- [http-nio-8081-exec-55] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.210 DEBUG 15100 --- [http-nio-8081-exec-90] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.210 DEBUG 15100 --- [http-nio-8081-exec-101] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.210 DEBUG 15100 --- [http-nio-8081-exec-101] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764549(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.210 DEBUG 15100 --- [http-nio-8081-exec-55] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764548(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.212 DEBUG 15100 --- [http-nio-8081-exec-87] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.212 DEBUG 15100 --- [http-nio-8081-exec-94] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.212 DEBUG 15100 --- [http-nio-8081-exec-106] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.212 DEBUG 15100 --- [http-nio-8081-exec-102] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.212 DEBUG 15100 --- [http-nio-8081-exec-109] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.212 DEBUG 15100 --- [http-nio-8081-exec-105] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.212 DEBUG 15100 --- [http-nio-8081-exec-109] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764550(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.212 DEBUG 15100 --- [http-nio-8081-exec-105] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764552(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.213 DEBUG 15100 --- [http-nio-8081-exec-95] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.212 DEBUG 15100 --- [http-nio-8081-exec-102] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764551(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.213 DEBUG 15100 --- [http-nio-8081-exec-98] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.213 DEBUG 15100 --- [http-nio-8081-exec-108] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.214 DEBUG 15100 --- [http-nio-8081-exec-86] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.214 DEBUG 15100 --- [http-nio-8081-exec-86] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764553(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.215 DEBUG 15100 --- [http-nio-8081-exec-97] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.215 DEBUG 15100 --- [http-nio-8081-exec-103] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.216 DEBUG 15100 --- [http-nio-8081-exec-97] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764555(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.216 DEBUG 15100 --- [http-nio-8081-exec-103] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764554(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.216 DEBUG 15100 --- [http-nio-8081-exec-101] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.216 DEBUG 15100 --- [http-nio-8081-exec-55] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.217 DEBUG 15100 --- [http-nio-8081-exec-99] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.217 DEBUG 15100 --- [http-nio-8081-exec-110] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.217 DEBUG 15100 --- [http-nio-8081-exec-99] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764556(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.217 DEBUG 15100 --- [http-nio-8081-exec-110] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764557(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.217 DEBUG 15100 --- [http-nio-8081-exec-105] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.218 DEBUG 15100 --- [http-nio-8081-exec-107] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.218 DEBUG 15100 --- [http-nio-8081-exec-107] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764558(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.220 DEBUG 15100 --- [http-nio-8081-exec-109] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.220 DEBUG 15100 --- [http-nio-8081-exec-102] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.220 DEBUG 15100 --- [http-nio-8081-exec-93] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.220 DEBUG 15100 --- [http-nio-8081-exec-27] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:33:07.220 DEBUG 15100 --- [http-nio-8081-exec-93] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058646993764560(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.220 DEBUG 15100 --- [http-nio-8081-exec-27] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50058642698797185(Long), 5(Long), 2(Long)
+2022-05-15 21:33:07.221 DEBUG 15100 --- [http-nio-8081-exec-97] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.221 DEBUG 15100 --- [http-nio-8081-exec-86] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.222 DEBUG 15100 --- [http-nio-8081-exec-103] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.222 DEBUG 15100 --- [http-nio-8081-exec-110] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.222 DEBUG 15100 --- [http-nio-8081-exec-99] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.222 DEBUG 15100 --- [http-nio-8081-exec-107] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.225 DEBUG 15100 --- [http-nio-8081-exec-93] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:33:07.226 DEBUG 15100 --- [http-nio-8081-exec-27] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1

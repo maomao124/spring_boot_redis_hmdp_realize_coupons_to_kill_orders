@@ -1,0 +1,117 @@
+2022-05-15 21:23:41.024  INFO 12656 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-15 21:23:41.027  INFO 12656 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-05-15 21:23:53.943  INFO 15668 --- [restartedMain] mdpRealizeCouponsToKillOrdersApplication : Starting SpringBootRedisHmdpRealizeCouponsToKillOrdersApplication using Java 16.0.2 on mao with PID 15668 (H:\程序\大三下期\spring_boot_redis_hmdp实现优惠券秒杀下单\target\classes started by mao in H:\程序\大三下期\spring_boot_redis_hmdp实现优惠券秒杀下单)
+2022-05-15 21:23:53.944 DEBUG 15668 --- [restartedMain] mdpRealizeCouponsToKillOrdersApplication : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-15 21:23:53.945  INFO 15668 --- [restartedMain] mdpRealizeCouponsToKillOrdersApplication : The following 1 profile is active: "dev"
+2022-05-15 21:23:53.982  INFO 15668 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-15 21:23:53.983  INFO 15668 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-15 21:23:54.483  INFO 15668 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-05-15 21:23:54.485  INFO 15668 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-05-15 21:23:54.506  INFO 15668 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2022-05-15 21:23:54.946  INFO 15668 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-05-15 21:23:54.953  INFO 15668 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-15 21:23:54.954  INFO 15668 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-15 21:23:55.023  INFO 15668 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-15 21:23:55.023  INFO 15668 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1040 ms
+2022-05-15 21:23:55.260  INFO 15668 --- [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-15 21:23:55.352  INFO 15668 --- [restartedMain] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-15 21:23:56.199  INFO 15668 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-15 21:23:56.241  INFO 15668 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-15 21:23:56.252  INFO 15668 --- [restartedMain] mdpRealizeCouponsToKillOrdersApplication : Started SpringBootRedisHmdpRealizeCouponsToKillOrdersApplication in 2.655 seconds (JVM running for 3.237)
+2022-05-15 21:26:09.714  INFO 15668 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-15 21:26:09.715  INFO 15668 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-05-15 21:26:13.798  INFO 15100 --- [restartedMain] mdpRealizeCouponsToKillOrdersApplication : Starting SpringBootRedisHmdpRealizeCouponsToKillOrdersApplication using Java 16.0.2 on mao with PID 15100 (H:\程序\大三下期\spring_boot_redis_hmdp实现优惠券秒杀下单\target\classes started by mao in H:\程序\大三下期\spring_boot_redis_hmdp实现优惠券秒杀下单)
+2022-05-15 21:26:13.799 DEBUG 15100 --- [restartedMain] mdpRealizeCouponsToKillOrdersApplication : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-15 21:26:13.799  INFO 15100 --- [restartedMain] mdpRealizeCouponsToKillOrdersApplication : The following 1 profile is active: "dev"
+2022-05-15 21:26:13.837  INFO 15100 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-15 21:26:13.837  INFO 15100 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-15 21:26:14.355  INFO 15100 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-05-15 21:26:14.357  INFO 15100 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-05-15 21:26:14.379  INFO 15100 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2022-05-15 21:26:14.801  INFO 15100 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-05-15 21:26:14.807  INFO 15100 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-15 21:26:14.808  INFO 15100 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-15 21:26:14.867  INFO 15100 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-15 21:26:14.867  INFO 15100 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1029 ms
+2022-05-15 21:26:15.091  INFO 15100 --- [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-15 21:26:15.186  INFO 15100 --- [restartedMain] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-15 21:26:16.015  INFO 15100 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-15 21:26:16.058  INFO 15100 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-15 21:26:16.068  INFO 15100 --- [restartedMain] mdpRealizeCouponsToKillOrdersApplication : Started SpringBootRedisHmdpRealizeCouponsToKillOrdersApplication in 2.611 seconds (JVM running for 3.149)
+2022-05-15 21:26:21.703  INFO 15100 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-15 21:26:21.703  INFO 15100 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-05-15 21:26:21.704  INFO 15100 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-05-15 21:26:21.952 DEBUG 15100 --- [http-nio-8081-exec-1] m.s.m.SeckillVoucherMapper.selectById    : ==>  Preparing: SELECT voucher_id,stock,create_time,begin_time,end_time,update_time FROM tb_seckill_voucher WHERE voucher_id=?
+2022-05-15 21:26:21.968 DEBUG 15100 --- [http-nio-8081-exec-1] m.s.m.SeckillVoucherMapper.selectById    : ==> Parameters: 2(Long)
+2022-05-15 21:26:21.985 DEBUG 15100 --- [http-nio-8081-exec-1] m.s.m.SeckillVoucherMapper.selectById    : <==      Total: 1
+2022-05-15 21:26:22.016 DEBUG 15100 --- [http-nio-8081-exec-1] m.s.mapper.SeckillVoucherMapper.update   : ==>  Preparing: UPDATE tb_seckill_voucher SET stock = stock - 1 WHERE (voucher_id = ?)
+2022-05-15 21:26:22.019 DEBUG 15100 --- [http-nio-8081-exec-1] m.s.mapper.SeckillVoucherMapper.update   : ==> Parameters: 2(Long)
+2022-05-15 21:26:22.022 DEBUG 15100 --- [http-nio-8081-exec-1] m.s.mapper.SeckillVoucherMapper.update   : <==    Updates: 1
+2022-05-15 21:26:22.344 DEBUG 15100 --- [http-nio-8081-exec-1] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:26:22.345 DEBUG 15100 --- [http-nio-8081-exec-1] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50056907532009476(Long), 5(Long), 2(Long)
+2022-05-15 21:26:22.348 DEBUG 15100 --- [http-nio-8081-exec-1] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:26:33.222 DEBUG 15100 --- [http-nio-8081-exec-3] m.s.m.SeckillVoucherMapper.selectById    : ==>  Preparing: SELECT voucher_id,stock,create_time,begin_time,end_time,update_time FROM tb_seckill_voucher WHERE voucher_id=?
+2022-05-15 21:26:33.223 DEBUG 15100 --- [http-nio-8081-exec-3] m.s.m.SeckillVoucherMapper.selectById    : ==> Parameters: 2(Long)
+2022-05-15 21:26:33.225 DEBUG 15100 --- [http-nio-8081-exec-3] m.s.m.SeckillVoucherMapper.selectById    : <==      Total: 1
+2022-05-15 21:26:33.226 DEBUG 15100 --- [http-nio-8081-exec-3] m.s.mapper.SeckillVoucherMapper.update   : ==>  Preparing: UPDATE tb_seckill_voucher SET stock = stock - 1 WHERE (voucher_id = ?)
+2022-05-15 21:26:33.226 DEBUG 15100 --- [http-nio-8081-exec-3] m.s.mapper.SeckillVoucherMapper.update   : ==> Parameters: 2(Long)
+2022-05-15 21:26:33.229 DEBUG 15100 --- [http-nio-8081-exec-3] m.s.mapper.SeckillVoucherMapper.update   : <==    Updates: 1
+2022-05-15 21:26:33.231 DEBUG 15100 --- [http-nio-8081-exec-3] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:26:33.231 DEBUG 15100 --- [http-nio-8081-exec-3] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50056954776649733(Long), 5(Long), 2(Long)
+2022-05-15 21:26:33.234 DEBUG 15100 --- [http-nio-8081-exec-3] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:26:35.250 DEBUG 15100 --- [http-nio-8081-exec-4] m.s.m.SeckillVoucherMapper.selectById    : ==>  Preparing: SELECT voucher_id,stock,create_time,begin_time,end_time,update_time FROM tb_seckill_voucher WHERE voucher_id=?
+2022-05-15 21:26:35.250 DEBUG 15100 --- [http-nio-8081-exec-4] m.s.m.SeckillVoucherMapper.selectById    : ==> Parameters: 2(Long)
+2022-05-15 21:26:35.252 DEBUG 15100 --- [http-nio-8081-exec-4] m.s.m.SeckillVoucherMapper.selectById    : <==      Total: 1
+2022-05-15 21:26:35.253 DEBUG 15100 --- [http-nio-8081-exec-4] m.s.mapper.SeckillVoucherMapper.update   : ==>  Preparing: UPDATE tb_seckill_voucher SET stock = stock - 1 WHERE (voucher_id = ?)
+2022-05-15 21:26:35.253 DEBUG 15100 --- [http-nio-8081-exec-4] m.s.mapper.SeckillVoucherMapper.update   : ==> Parameters: 2(Long)
+2022-05-15 21:26:35.256 DEBUG 15100 --- [http-nio-8081-exec-4] m.s.mapper.SeckillVoucherMapper.update   : <==    Updates: 1
+2022-05-15 21:26:35.258 DEBUG 15100 --- [http-nio-8081-exec-4] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:26:35.258 DEBUG 15100 --- [http-nio-8081-exec-4] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50056963366584326(Long), 5(Long), 2(Long)
+2022-05-15 21:26:35.260 DEBUG 15100 --- [http-nio-8081-exec-4] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:26:35.989 DEBUG 15100 --- [http-nio-8081-exec-5] m.s.m.SeckillVoucherMapper.selectById    : ==>  Preparing: SELECT voucher_id,stock,create_time,begin_time,end_time,update_time FROM tb_seckill_voucher WHERE voucher_id=?
+2022-05-15 21:26:35.989 DEBUG 15100 --- [http-nio-8081-exec-5] m.s.m.SeckillVoucherMapper.selectById    : ==> Parameters: 2(Long)
+2022-05-15 21:26:35.991 DEBUG 15100 --- [http-nio-8081-exec-5] m.s.m.SeckillVoucherMapper.selectById    : <==      Total: 1
+2022-05-15 21:26:35.992 DEBUG 15100 --- [http-nio-8081-exec-5] m.s.mapper.SeckillVoucherMapper.update   : ==>  Preparing: UPDATE tb_seckill_voucher SET stock = stock - 1 WHERE (voucher_id = ?)
+2022-05-15 21:26:35.992 DEBUG 15100 --- [http-nio-8081-exec-5] m.s.mapper.SeckillVoucherMapper.update   : ==> Parameters: 2(Long)
+2022-05-15 21:26:35.995 DEBUG 15100 --- [http-nio-8081-exec-5] m.s.mapper.SeckillVoucherMapper.update   : <==    Updates: 1
+2022-05-15 21:26:35.997 DEBUG 15100 --- [http-nio-8081-exec-5] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:26:35.997 DEBUG 15100 --- [http-nio-8081-exec-5] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50056963366584327(Long), 5(Long), 2(Long)
+2022-05-15 21:26:36.001 DEBUG 15100 --- [http-nio-8081-exec-5] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:26:36.574 DEBUG 15100 --- [http-nio-8081-exec-7] m.s.m.SeckillVoucherMapper.selectById    : ==>  Preparing: SELECT voucher_id,stock,create_time,begin_time,end_time,update_time FROM tb_seckill_voucher WHERE voucher_id=?
+2022-05-15 21:26:36.574 DEBUG 15100 --- [http-nio-8081-exec-7] m.s.m.SeckillVoucherMapper.selectById    : ==> Parameters: 2(Long)
+2022-05-15 21:26:36.576 DEBUG 15100 --- [http-nio-8081-exec-7] m.s.m.SeckillVoucherMapper.selectById    : <==      Total: 1
+2022-05-15 21:26:36.577 DEBUG 15100 --- [http-nio-8081-exec-7] m.s.mapper.SeckillVoucherMapper.update   : ==>  Preparing: UPDATE tb_seckill_voucher SET stock = stock - 1 WHERE (voucher_id = ?)
+2022-05-15 21:26:36.578 DEBUG 15100 --- [http-nio-8081-exec-7] m.s.mapper.SeckillVoucherMapper.update   : ==> Parameters: 2(Long)
+2022-05-15 21:26:36.581 DEBUG 15100 --- [http-nio-8081-exec-7] m.s.mapper.SeckillVoucherMapper.update   : <==    Updates: 1
+2022-05-15 21:26:36.584 DEBUG 15100 --- [http-nio-8081-exec-7] m.s.mapper.VoucherOrderMapper.insert     : ==>  Preparing: INSERT INTO tb_voucher_order ( id, user_id, voucher_id ) VALUES ( ?, ?, ? )
+2022-05-15 21:26:36.585 DEBUG 15100 --- [http-nio-8081-exec-7] m.s.mapper.VoucherOrderMapper.insert     : ==> Parameters: 50056967661551624(Long), 5(Long), 2(Long)
+2022-05-15 21:26:36.587 DEBUG 15100 --- [http-nio-8081-exec-7] m.s.mapper.VoucherOrderMapper.insert     : <==    Updates: 1
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-15] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-12] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.134  WARN 15100 --- [http-nio-8081-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-16] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-13] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-14] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-11] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.133  WARN 15100 --- [http-nio-8081-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.136  WARN 15100 --- [http-nio-8081-exec-17] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.144  WARN 15100 --- [http-nio-8081-exec-18] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.153  WARN 15100 --- [http-nio-8081-exec-19] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.163  WARN 15100 --- [http-nio-8081-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.172  WARN 15100 --- [http-nio-8081-exec-19] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.182  WARN 15100 --- [http-nio-8081-exec-15] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.191  WARN 15100 --- [http-nio-8081-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.202  WARN 15100 --- [http-nio-8081-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.211  WARN 15100 --- [http-nio-8081-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.221  WARN 15100 --- [http-nio-8081-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.231  WARN 15100 --- [http-nio-8081-exec-17] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.242  WARN 15100 --- [http-nio-8081-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-15 21:30:55.252  WARN 15100 --- [http-nio-8081-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
